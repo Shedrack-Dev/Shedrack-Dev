@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm passionate about building software, learning n
 
 ## 📫 How to reach me
 - Email: shedrackdaniel.designer@gmail.com
-- LinkedIn: www.linkedin.com/in/shedrack daniel ankala
+- LinkedIn: www.linkedin.com/in/shedrackdanielankala
 - Twitter/X: @0village_people
 
 ## ⚡ Fun fact
@@ -47,6 +47,6 @@ Welcome to my GitHub profile! I'm passionate about building software, learning n
 ## 🛠️ Tech Stack
 
 ```txt
-Frontend:  HTML | CSS | JavaScript | React
+Frontend:  HTML | Tailwind CSS | JavaScript | React
 Backend:   Node.js
 Tools:     Git | GitHub | VS Code
